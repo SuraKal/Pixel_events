@@ -1,6 +1,7 @@
 # Project Name
 
-A brief description of your project.
+Pixel Event is an open-source event management platform that have 3 users. Namely Admin, Attendee and Organizer. 
+This project is in-development and will be completed on short period of time. 
 
 ---
 
@@ -27,6 +28,6 @@ Make sure you have the following installed:
 Clone the project using the terminal:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/SuraKal/Pixel_events.git
 
 
